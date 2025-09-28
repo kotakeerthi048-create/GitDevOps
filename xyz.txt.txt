@@ -1,0 +1,25 @@
+alter user'root'@'localhost'identified by'12345';
+
+Basic Commands:-
+
+cd --changing to directory
+Pwd -- present working directory
+Ls -- list out of all files and folders on the directory
+ls -a list out of all files include hidden 
+ls -l list out of all files in vertical with all detials 
+I want see the system logs then go to var directory check the logs 
+cd /var/log/ -- check the system logs 
+cd .. this command used for go back one step 
+Note: ".." this is also directory
+etc directory --> in this directory haveing all configuration file of your node or agent server
+clear -- clear the line screen 
+tmp directory --> if your doing security patching then it will remove everything what we have in tmp
+as user can access only tmp directory not other directory(createing anything)
+
+as admin what are the servers are running on this instance 
+
+top -- this is going show the service are running(press q to back)
+
+Process management-
+
+Disk monitoring commands
